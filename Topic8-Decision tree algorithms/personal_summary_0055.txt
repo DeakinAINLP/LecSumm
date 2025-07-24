@@ -1,0 +1,1 @@
+ The main points covered in topic 7 were:    SVM formulation and solution for linearly separable data   SVM formulation and solution for linearly non-separable data   Kernel trick and non-linear SVM   Support vector regression   Statistical learning theory of SVM   Multi-class classification in SVM   SVM in Python - Linear kernel, Polynomial Kernel and RBF Kernel  

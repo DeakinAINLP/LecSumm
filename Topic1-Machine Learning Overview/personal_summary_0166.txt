@@ -1,0 +1,1 @@
+This topic's study is mainly about the basic concepts of machine learning  and  the  mathematical  knowledge  that  needs  to  be  applied,  such  as  vectors and matrices in linear algebra. Also familiarize yourself with the  basics of Python programming.     

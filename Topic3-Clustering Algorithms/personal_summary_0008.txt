@@ -1,0 +1,1 @@
+The main points this topic included sta(cid:415)s(cid:415)cs including distribu(cid:415)on and random variables, data wrangling, images & test as data, feature extrac(cid:415)ng, diﬀerence between data and signal, encoding, 

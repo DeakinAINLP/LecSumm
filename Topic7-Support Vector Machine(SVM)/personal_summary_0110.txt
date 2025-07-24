@@ -1,0 +1,1 @@
+ Points covered in topic 6:    Linear regression model   Linear classification   Logistic regression formulation   Training logistics regression model   Regularized linear model   Linear regression for selected feature  Sources used:   GitHub   Greeks of Greek   Stack over flow   Lecture slides   Workshop materials  Quiz :      

@@ -1,0 +1,1 @@
+Topic 1 covers  a.  What is machine learning and its real-life applications. b.  Supervised learning and unsupervised learning and reinforced learning. c.  Criteria to look at when select a model. d.  Algebra e.  Python basics f.  

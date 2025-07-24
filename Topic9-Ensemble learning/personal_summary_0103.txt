@@ -1,0 +1,1 @@
+ Main learning points:    Linear classification models are computationally efficient. Though, for some contexts, they  may be insufficient, as linear models may not capture all relationships in the data.    Non-linear models include decision trees and KNN.   Decision trees can be regression trees or classification trees  

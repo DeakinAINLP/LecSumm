@@ -1,0 +1,1 @@
+ The main points covered in topic 2 were:    KNN algorithm and its variants   Theory of KNN   Best number of neighbours (K)   Decision trees   Regression trees   Classification trees   Decision tree algorithms   Model complexity and pruning   Decision trees advantages/disadvantages   KNN and Decision trees in python  

@@ -1,0 +1,1 @@
+ Points covered in topic 8:    Bootstrap Estimation   Ada boost   Bagging   Random Forest Algorithm   Random Forest in python  Sources used:   GitHub   Greeks of Greek   Stack over flow   Lecture slides   Workshop materials  Quiz :      

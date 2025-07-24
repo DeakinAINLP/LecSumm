@@ -1,0 +1,1 @@
+Topic seven was comprised solely of the foundation and application of Support Vector Machines or SVM . Initially we covered the mathematics behind the SVM algorithm and how it is applied to both linearly separable and linearly non- separable data. We then reviewed some more theory behind SVM and went into its application in Python with various kernels.  

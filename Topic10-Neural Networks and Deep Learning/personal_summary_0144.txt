@@ -1,0 +1,1 @@
+The main points covered in this topic are all about ensemble learning, bootstrap estimation, adaboost, bagging, random forest algorithm, out of bag error and feature importance, voting and stack classifier. Then we started to implement random forest in python and boosting in python.  

@@ -1,0 +1,1 @@
+ This topic we continued to cover regression algorithms.  We covered logistic regression, which is used for classification problems, unlike linear regression which is used for regression problems. We looked into the maths behind these regression algorithms.  We looked again at model complexity, over-fitting and under-fitting.  

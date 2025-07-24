@@ -1,0 +1,1 @@
+This  module  covered  clustering  with  a  heavy  focus  on  KMeans  and  also  distance measurements (metrics) which is a combination of measuring the distances between clusters (inter-distance) and between centroids within clusters (intra-distance). Clustering algorithms are a means to maximise or minimise the distance metrics. 

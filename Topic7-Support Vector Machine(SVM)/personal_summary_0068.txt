@@ -1,0 +1,1 @@
+Main points in this topic    Linear regression formulation   What is linear classification   Logistic regression formulation   How to build and train a Logistic regression model   The model complexity   Logistic regression in Python   How to regularize linear and logistic models   How to evaluate the performance of Linear and logistic regression  

@@ -1,0 +1,1 @@
+The main points studied in this topic are as follows:    Forms of supervised learning   Building of supervised learning models   Concept of model complexity   Model evaluation metrics   Hyper-parameters  

@@ -1,0 +1,1 @@
+The forms of Supervised learning  Model complexity  Classification and regression metrics  Partition data for training and testing  Exploring Python packages for supervised learning  How to split data in python  How to fit a regression line  How to create and train a linear regression model  Evaluate the linear regression model  

@@ -1,0 +1,1 @@
+ Points covered in topic 7:    SVM formulation and solution for linear separable data   Kernel trick and nonlinear SVM   Statistical learning theory of SVM   Multi class classification in SVM   SVM in python linear kernel   SVM python in RBF kernel  Sources used:   GitHub   Greeks of Greek   Stack over flow   Lecture slides   Workshop materials  Quiz :      

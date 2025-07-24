@@ -1,0 +1,1 @@
+The learning goal for this topic (topic 1) was just about some introductory about machine learning and its basic requirements. Including some basic leaner algebra and matrix calculations. Also, some information about different types of machine learning.  

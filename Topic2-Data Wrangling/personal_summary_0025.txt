@@ -1,0 +1,1 @@
+-  Understand the concept of neural network. -  Understand perceptron, mulN-perceptron, and backpropagaNon algorithms. -  Understand  diﬀerence  deep learning  and  neural  network  architecture including CNNs, and Autoencoder  

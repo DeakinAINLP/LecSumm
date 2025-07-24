@@ -1,0 +1,1 @@
+The main points covered this topic were as follows:    Unsupervised Learning  o  Various methods to determine distances between data o  Clustering and methods of clustering  ▪  Specifically KMeans and KMeans++  o  Evaluation tools to determine how well the clustering method has worked  

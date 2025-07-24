@@ -1,0 +1,1 @@
+This topic, we have learned about the following main topics: Clustering Concepts, Unsupervised, Identifying Patterns, Grouping/Segmentation, Exploratory Analysis, Measuring Distances, How K-means works, Limitation of K-Means, K-Means clustering with Python.  

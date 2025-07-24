@@ -1,0 +1,1 @@
+Main points in this topic  What is Neural network  What is perceptron algorithm  Motivation of Multilayer perceptron  Multilayer Perceptron Network in Python  What is CNN  How to use CNN  Deep learning with Python  

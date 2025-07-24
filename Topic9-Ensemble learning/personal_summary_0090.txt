@@ -1,0 +1,1 @@
+In this topic, we are mainly focus on KNN algorithm and Decision tree algorithm. We study its concept and how to reach them in Python.  

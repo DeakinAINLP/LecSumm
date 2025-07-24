@@ -1,0 +1,1 @@
+In Topic 8, I gained a solid understanding of the practical applications of  KNN  and  DT  classifiers  in  supervised  learning.  Not  only  did  I  learn  the  theoretical concepts behind these approaches, but I also gained hands-  on experience using them in Python.    

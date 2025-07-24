@@ -1,0 +1,1 @@
+● Data wrangling is the procedure of acquiring, analysing, and manipulating raw data into  a suitable format for faster processing and evaluation.  

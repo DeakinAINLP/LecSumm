@@ -1,0 +1,1 @@
+ Supervised machine learning is described as a method that uses labelled data to train algorithms to classify data or predict outcomes. Many practical ML methods use supervised learning. Given a training dataset, ML algorithms find a function to map the input and output data. The most common type of ML applications are classification problems.  Quiz Result     

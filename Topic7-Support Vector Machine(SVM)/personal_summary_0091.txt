@@ -1,0 +1,1 @@
+In this topic, we continue to study supervised learning – linear model. We mainly focus on the concept of the linear regression and classification, logistic regression and regularised linear models, how to call them in Python.  

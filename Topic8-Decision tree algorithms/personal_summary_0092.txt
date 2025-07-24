@@ -1,0 +1,1 @@
+In this topic, we mainly study on the concept of SVM model  and how to call it with different kernels in Python.  

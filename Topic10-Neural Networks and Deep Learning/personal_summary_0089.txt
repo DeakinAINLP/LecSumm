@@ -1,0 +1,1 @@
+In topic 9, we mainly study on nonlinear models: boosting and random forest. We get their basic concept and how to reach them in Python.  

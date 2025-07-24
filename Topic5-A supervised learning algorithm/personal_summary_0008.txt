@@ -1,0 +1,1 @@
+Topic 4 is focused on dimensionality reduc(cid:415)on including: Dimensionality of data The curse of dimensionality Singular Value Decomposi(cid:415)on Principal Component Analysis & its implementa(cid:415)on Checking correlated and independent data Other dimensionality reduc(cid:415)on techniques 

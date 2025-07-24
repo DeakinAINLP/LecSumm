@@ -1,0 +1,1 @@
+ The main points covered in topic 9 were:    Ensemble learning   Bootstrap estimation   Adaboost   Bagging   Random forest algorithm   Out of bag error and feature importance   Feature importance of using Random forest (RF)   Random Forest in Python   Boosting in python  

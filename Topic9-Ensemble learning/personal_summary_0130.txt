@@ -1,0 +1,1 @@
+ Topic 8 covers  a.  Non-linear model KNN and DT b.  How to identify the best K value for KNN c.  DT and different types of DT’s d.  Model complexity and pruning e.  Non-linear models in Python  

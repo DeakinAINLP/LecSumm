@@ -1,0 +1,1 @@
+The main points covered this topic were as follows:    Supervised Learning o  SVM  ▪  One vs One ▪  One vs All    Margins (Hard and Soft)   Misclassification and C values   Non-linearity  o  Transformation to higher dimension space    RBF   SVR   SVC  

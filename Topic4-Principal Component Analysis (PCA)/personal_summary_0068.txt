@@ -1,0 +1,1 @@
+My main points in this topic   Learn several different Distance metrics  Learn how Clustering algorithm works  Kmeans Clustering Algorithm  Limitation of Kmeans and how to find useful number of clusters (optimum K value)  Kmeans++ Clustering Algorithm  Several clustering evaluation methods  Kmeans clustering and Clustering evaluation with python  

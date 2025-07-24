@@ -1,0 +1,1 @@
+Points covered in topic 3 and 4:    K mean clustering   K++ means   Evaluation of the clustering   Applying DBSCAN to the data   Finding the optimum eps and min values   Silhouette score  These are my following learning outcomes     

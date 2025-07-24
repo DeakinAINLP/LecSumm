@@ -1,0 +1,1 @@
+   KNN algorithm and its variants   Theory of KNN   Decision Tree   Regression Tree   KNN in python   Decision tree   Usage of tsne analysis in the python   KNN in Python  Sources used:   GitHub   Greeks of Greek   Stack over flow   Lecture slides   Workshop materials  Quiz :      

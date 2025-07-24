@@ -1,0 +1,1 @@
+For topic2, we mainly learn about the basic definition of statistics which relates to analysing data, core actions needed for data wrangling, different probability distribution lick normal distribution, feature extraction, some skills needed for transform data like encoding and normalization, scaling and normalization.  

@@ -1,0 +1,1 @@
+ The main points covered in this unit include the following:    Ensemble Learning   Bootstrap estimation   Bagging   Random forest algorithm   Random forest algorithm training   Random forest algorithm testing   Out of bag error   Feature importance   Advantages and Disadvantages of Random Forest   Ensemble learning-Boosting   AdaBoost   Voting classifier   Stack classifier  

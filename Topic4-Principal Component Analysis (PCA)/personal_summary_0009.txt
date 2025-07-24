@@ -1,0 +1,1 @@
+Topic 3 is focused on clustering including the topics: Types of clustering Evalua(cid:415)on of clustering algorithms Methods of measuring distance / similiarity Applica(cid:415)ons for clustering Kmeans in python 

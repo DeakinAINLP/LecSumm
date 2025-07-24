@@ -1,0 +1,1 @@
+Learn about ensemble method and its usefulness.  - -  Understand the diﬀerence between bagging and boosCng. -  Understand  AdapCve  boosCng  and  random  forest  deﬁniCon,  term,  and  algorithms. Implement random forest and boosCng algorithm in Python with Sklearn.  

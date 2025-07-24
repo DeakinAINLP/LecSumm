@@ -1,0 +1,1 @@
+Topic 6 covers  a.  Examples of linear regression and logistic regression b.  Generalisation and complexity c.  Model complexity d.  Regularised liner models e.  Linear regression for feature selection  

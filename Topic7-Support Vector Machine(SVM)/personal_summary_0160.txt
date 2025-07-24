@@ -1,0 +1,1 @@
+ The main points for this topic were: - Supervused learning -Relevance and Covariance between features - Logistic regression - Model Complexity - Feature selection  

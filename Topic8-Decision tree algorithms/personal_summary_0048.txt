@@ -1,0 +1,1 @@
+ This topic the main point is SVM, Support Vector Machine, we looked at both linear and non-linear SVM, SVM is for classification problems. SVM performs the classification by drawing a hyperplane that best separates the data. We covered the SVM kernel trick. We investigated the statistical learning theory of SVM; and also covered how to perform SVM in python.  

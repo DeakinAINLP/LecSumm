@@ -1,0 +1,1 @@
+During this lesson Basic Concepts of Dimensionality Reduction, Eigen values and Eigen Vectors. Eigen Values can be used only when the matrix is square. When the matrix is not square SVD can be used. Curse of data dimensionality: when there are a lot of dimensions the model tends to overfit. To solve this PCA and a few other methods can be used.  

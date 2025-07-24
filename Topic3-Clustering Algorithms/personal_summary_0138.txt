@@ -1,0 +1,1 @@
+The main points covered in this topic are all about feature matrix and vectors, probability and their types, random variable and their distribution, data wrangling concepts, normalisation concepts. Then we started to implement python examples on matrix, vectors, random variable, missing value replacement and scaling.  

@@ -1,0 +1,1 @@
+Topic summary  This topic we explored supervised learning in depth, we looked at ensemble methods such as a random forest and how to implement it. Parameters tuning and how it affects the model. We also looked at other ensemble methods such as boosting and how to optimise them.  

@@ -1,0 +1,1 @@
+The main points covered this topic were as follows:  o  Dimensionality of data and its curse o  Eigenvalues and Eigenvectors o  How to reduce the dimensionality of data o  PCA and SVD o  Correlation  

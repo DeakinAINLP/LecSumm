@@ -1,0 +1,1 @@
+Topic 5 is focused on the fundamentals of supervised learning including: Model complexity Regression Classiﬁcation Partitioning data for use in supervised learning training & tes(cid:415)ng Hyper parameter search Packages available for supervised learning Multivariable regression The eﬀects of imbalanced classes Model evaluation 

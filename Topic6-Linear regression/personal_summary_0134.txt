@@ -1,0 +1,1 @@
+Topic 5 covers  a.  Supervised learnings b.  Underfitting and overfitting c.  Classification metrics and accuracy measurement (ROC curve) d.  Regression metrics e.  Data split and the methods to do the split f.  Regression model in Python g.  Random data split vs cross validation (leave one out)  

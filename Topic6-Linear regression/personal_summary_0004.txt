@@ -1,0 +1,1 @@
+This  module  covered  supervised  learning,  with  a  heavy  focus  on  Linear  Regression,  the relationship between x and y (being a function), overfitting and underfitting, unbalanced data, partitioning data and various methods for evaluating a model. 

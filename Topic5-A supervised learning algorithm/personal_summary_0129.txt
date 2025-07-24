@@ -1,0 +1,1 @@
+Topic 4 covers  a.  Dimensionality in data and the issues with it when there are high dimensions. b.  How we can reduce the dimensions c.  Eigenvalues and Eigenvectors d.  Using PCA to reduce correlations between features e.  PCA applications in Python  

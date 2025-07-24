@@ -1,0 +1,1 @@
+This topic I learned about several different clustering algorithms and how  they  work as well as  their  limitations.  And  also  look  at  how to  evaluate  algorithms using various benchmarks.    

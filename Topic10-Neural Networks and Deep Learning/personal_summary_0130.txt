@@ -1,0 +1,1 @@
+Topic 9 covers  a.  Ensemble learnings b.  Bootstrapping estimate c.  Adaboost Bagging d.  Random forest algorithm e.  Models in python               

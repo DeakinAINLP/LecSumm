@@ -1,0 +1,1 @@
+Main points in this topic:  Curse of dimensionality  How to compute eigenvalue and eigenvector  How to apply singular value decomposition(SVD)  What is PCA and steps to use PCA  What is the correlated data and uncorrelated data  Apply PCA in Python  

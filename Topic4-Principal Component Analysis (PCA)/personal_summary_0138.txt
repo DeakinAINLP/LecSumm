@@ -1,0 +1,1 @@
+This topic covered topics related to unsupervised machine learning,  specifically focusing on measuring distances, clustering, and its applications, Kmeans algorithm and its evaluation, limitations and extensions of Kmeans, other clustering algorithms such as DBSCAN and Hierarchical clustering, and implementing Kmeans clustering with Python.  

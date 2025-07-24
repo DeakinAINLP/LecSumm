@@ -1,0 +1,1 @@
+This topic we are focusing on unsupervised learning and learn about several ways to measure distance between data points. The main point for this topic is to use cluster algorithms: Kmeans, Kmeans++ and DBSCAN.  

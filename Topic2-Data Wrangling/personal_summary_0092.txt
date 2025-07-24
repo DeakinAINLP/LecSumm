@@ -1,0 +1,1 @@
+In this topic, we continue to study nonlinear models: neural networks and deep learning. We learnt a lot of algorithms like perceptron algorithm, MLP algorithm and backpropagation algorithm. We got their basic concept and how to apply them in Python.  

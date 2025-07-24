@@ -1,0 +1,1 @@
+-  Understand Support Vector Machines (SVM). -  Understand the diﬀerence between linear and non-linear SVM, and how/when  - to use one of it. Implement  Support  Vector  Machines  (SVM)  algorithms  using  Python  and Sklearn with linear kernel, polynomial kernel, and RBF kernel.  

@@ -1,0 +1,1 @@
+The main points covered in topic 10 were:    Motivation and Inspiration   Neural system basics   Perceptron algorithm   Motivation for multilayer perceptron   Multilayer perceptron   Backpropagation Algorithm   Perceptron and MLP in Python  Introduction to Deep Learning   Convolutional Neural Networks   Application of CNN   Autoencoder   Deep learning with python  

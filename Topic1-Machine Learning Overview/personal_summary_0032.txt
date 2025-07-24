@@ -1,0 +1,1 @@
+ The topicly lecture shows the main point such as    What is the machine learning?   Types of machine learning algorithms   vector operations   matrix operations  

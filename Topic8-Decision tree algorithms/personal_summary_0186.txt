@@ -1,0 +1,1 @@
+Main points covered in topic 7 of the unit content:   Linear SVM   Non-linear SVM  

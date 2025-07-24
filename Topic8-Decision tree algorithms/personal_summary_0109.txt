@@ -1,0 +1,1 @@
+Topic summary  -  This topic is all about learning and implementing SVM model for designing  classifiers. We explored where the model fit its limitations and how its complexity affects final outcomes.  -  Also learnt about SVR  

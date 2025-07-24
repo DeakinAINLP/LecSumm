@@ -1,0 +1,1 @@
+Topic 10 covers  a.  Neural system basics b.  Single perceptron model and multiple perceptron model c.  The reason for building multiple perceptron models d.  Backpropagation algorithm e.  Deep learning and Convolutional Neural Networks f.  Application of CNN g.  Python  

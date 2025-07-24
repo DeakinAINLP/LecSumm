@@ -1,0 +1,1 @@
+This topic's study mainly includes the impact of data in high dimensions,  and how to solve this part of the problem through dimensionality reduction,  including understanding of different dimensionality reduction techniques  including PCA technology.     

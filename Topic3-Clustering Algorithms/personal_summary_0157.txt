@@ -1,0 +1,1 @@
+This topic, I learned about Probability Concepts, and also learned about  Distribution  of  random  variables.  I  also  learned  about  Data  wrangling  theory and Python practice.     

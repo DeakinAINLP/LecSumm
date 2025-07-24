@@ -1,0 +1,1 @@
+This topic covered a range of topics in machine learning, including  dimensionality reduction techniques such as PCA and tSNE, model evaluation metrics such as accuracy, precision, recall, and F1 score, and model development using SVM with different kernel types. We also discussed the importance of hyperparameter tuning in machine learning model development.  

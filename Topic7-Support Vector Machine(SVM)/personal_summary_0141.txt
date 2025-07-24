@@ -1,0 +1,1 @@
+This topic's topics focused on linear regression and logis8c regression, which are  both important algorithms used in machine learning for predic8on and classiﬁca8on tasks. We discussed the formula8on of these models, how to train them, and how to assess their performance. We also covered regulariza8on techniques, which help prevent overﬁAng of the model to the training data.  

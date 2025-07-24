@@ -1,0 +1,1 @@
+This  topic,  we  learned  about  the  basics  of  supervised  learning,  how  it  works,  and  the  impact  of  model  complexity  on  the  outcomes.  We  also  gained hands-on experience by implementing several Python programs.     

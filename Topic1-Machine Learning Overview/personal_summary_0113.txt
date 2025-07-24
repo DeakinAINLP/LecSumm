@@ -1,0 +1,1 @@
+ Points covered:    Model evaluation   Mathematics   Vectors   Matrix and calculation   Different types of variables   Loading the csv file   Displaying the particular word in the string   Displaying the random variables   Creating the dictionary   Statistics calculation  Sites referred:   Git hub   W3 schools          

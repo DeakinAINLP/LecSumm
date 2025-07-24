@@ -1,0 +1,1 @@
+This topic's topics included:   Artificial neural networks   Deep learning   Perceptron   Multilayer perceptron   Back propagation algorithm   Convolutional neural networks   Autoencoder   Applying the above in python 

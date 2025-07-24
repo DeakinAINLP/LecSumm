@@ -1,0 +1,1 @@
+Main points in this topic   What is SVM  SVM formulation and solution for linearly separable and non-separable data  What is support vector and support vector regression  Multi-class classification in SVM  SVM in Python: linear kernel, Polynomial kernel, and RBF kernel  

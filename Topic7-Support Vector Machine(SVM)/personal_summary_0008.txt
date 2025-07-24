@@ -1,0 +1,1 @@
+This topic's topics included: Linear regression Logistic regression Linear classification   Relevance & covariance among features   Generalisation and complexity (includes variance and bias)   Model complexity   Regularization Linear regression & logistic regression in python 

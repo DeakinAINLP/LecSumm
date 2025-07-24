@@ -1,0 +1,1 @@
+This topic's topics covered the issue of dimensionality in data and the curse it brings, as well as techniques for solving it. The main focus was on Principal Component Analysis (PCA), which is a widely used technique for dimensionality reducCon. The topic also covered other techniques for dimensionality reducCon, such as t- Distributed StochasCc Neighbor Embedding (t-SNE).  

@@ -1,0 +1,1 @@
+The topic 3 summarises about different types of clustering methods. It also explains methods such as:    Distance metrics and measurement types   Different clustering methods   Evaluation of clustering   Limitations of different cluster types  

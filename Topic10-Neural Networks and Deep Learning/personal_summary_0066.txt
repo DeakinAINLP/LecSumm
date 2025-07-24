@@ -1,0 +1,1 @@
+ Main points in this topic   What is ensemble learning  What is Bootstrap estimation and AdaBoost  The Bagging  What is Random Forest algorithm  Random Forest algorithm in Python  Boosting with Python  

@@ -1,0 +1,1 @@
+Topic 3 covers  a.  The distance measures how they are calculated. b.  The clustering and its application. c.  How distance calculation determines the clustering. d.  What Kmeans clustering model is and its limitation e.  Other types of clustering modelling such as Kmeans, DBSCAN f.  How number of clusters is determined where for Kmeans the number is chosen  beforehand.  

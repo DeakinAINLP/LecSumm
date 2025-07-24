@@ -1,0 +1,1 @@
+This topic's topics included:   K nearest neighbours   Best number of neighbours   Decision trees   Regression & classification trees   Model complexity and pruning of trees   Decision tree advantages and disadvantages   K nearest neighbours and decision trees in python 

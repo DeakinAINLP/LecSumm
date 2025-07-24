@@ -1,0 +1,1 @@
+Topic summary  This topic is all about learning basics of probability and matrixes and vectors and their operations.  This topic we should also get better at python programming.  We will look at data wrangling, feature extraction, scaling and encoding for better interpretation and application in ML models. Also we will look at some statistics.  

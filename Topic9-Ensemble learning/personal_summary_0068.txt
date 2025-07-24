@@ -1,0 +1,1 @@
+Main points in this topic   What is the theory of KNN and how to use it  What is decision Tree  The difference between Regression tree and Classification tree  What is the decision tree algorithms  Decision trees advantages and disadvantages  KNN and Decision Tree in Python  

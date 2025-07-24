@@ -1,0 +1,1 @@
+For this topic, we focus on supervised learning now. We mainly learn the concepts of supervised learning like model complexity, model selection and so on. We also learn how to split data into training and testing set and implement model in Python.  

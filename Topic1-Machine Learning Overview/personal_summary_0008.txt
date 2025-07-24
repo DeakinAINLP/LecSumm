@@ -1,0 +1,1 @@
+Topic 1 Report Unit: SIT307 Student: Adam Edwards Student ID: 218506346 The main points of the topic covered an introduc(cid:415)on to machine learning (applica(cid:415)ons, steps involved and the 3 types of ML), essen(cid:415)al coding skills in python, setup of Anaconda to manage environments & essen(cid:415)al mathema(cid:415)cal skills (name matrix opera(cid:415)ons). 

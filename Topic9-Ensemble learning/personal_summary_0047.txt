@@ -1,0 +1,1 @@
+ This topic we covered the K-nearest neighbours’ algorithm (and its variants), this algorithm is also known as KNN. This is a supervised learning algorithm that can be used for estimating continuous variables.  We also covered different types of “trees“ that can be used in machine learning, including decision trees, regression trees, and classification trees.  

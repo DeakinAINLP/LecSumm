@@ -1,0 +1,1 @@
+Topic summary  -  This topic I explored KNN as well as decision trees for classification and regression  o  Theory of KNN  o  Hyper parameters  -  We learnt about model complexity and DT pruning  

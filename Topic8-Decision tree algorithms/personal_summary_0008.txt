@@ -1,0 +1,1 @@
+This topic's topics included:   Support vector machines   SVM solution for linear separable and non-separable data   Support vector regression   Statistical learning theory of SVM   Multi class classification using SVM   SVM kernels in python 

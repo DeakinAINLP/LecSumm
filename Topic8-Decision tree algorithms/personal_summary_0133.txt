@@ -1,0 +1,1 @@
+Topic 7 covers  a.  SVM for both linearly separable data and non-linearly separable data b.  How Kernel plays a role c.  Support vector regression d.  SVM in python  
