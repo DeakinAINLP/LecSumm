@@ -1,6 +1,6 @@
 # LecSumm
 
-This repository contains a dataset for the paper [Can Language Models Capture Human Writing Preferences for Domain-Specific Text Summarization?] (https://aclanthology.org/2025.findings-acl.315.pdf), which has been accepted by Findings of ACL 2025.
+This repository contains a dataset for the paper [Can Language Models Capture Human Writing Preferences for Domain-Specific Text Summarization?](https://aclanthology.org/2025.findings-acl.315.pdf), which has been accepted by Findings of ACL 2025.
 
 # Dataset
 
